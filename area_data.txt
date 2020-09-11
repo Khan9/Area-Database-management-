@@ -1,0 +1,33 @@
+Mrs Ayesha Begum:Housewife:N:10000:3:2:1:1:nil:nil:
+Md Montaz Uddin:Teacher:J:20000:5:3:2:1:PrivateEmployee:nil:
+Aaorongojeb Dhon:Businessman:N:50000:4:3:1:0:Businessman:Businessman:
+Abdus Samad:Govt Employee:N:35000:5:3:2:3:nil:nil:
+Abdus Sattar:Retired:J:150000:11:5:6:2:Businessman:Businessman:
+Abul Hossain:Retired:N:60000:6:2:4:4:PrivateEmployee:nil:
+AKM Julhash:Doctor:N:100000:6:3:3:4:nil:nil:
+Avro Dip:Engineer:N:80000:2:1:1:0:Doctor:nil:
+Wahidur Rahman:Teacher:N:25000:6:5:1:4:nil:nil:
+Motiur Rahman:Politician:N:200000:7:4:3:0:nil:nil:
+
+Haji Rahmat Ullah Forquania High School:School:1500:Lalshah majar:027503566:
+Kishoraloy kinder garden:School:600:Box Nagar:0275551945:
+Shanarpar Rowshan Ara College:College:800:Shanarpar:02785446:
+Sarulia Ideal School:School:400:Box nagar:01755555645:
+Oxford International School:school:500:Ranimohol:0155475564:
+Demra University:University:1200:Sarulia:01675677675:
+Darunnajat Siddikia Kamil Madrasha:Madrasha:4000:Rishipara:027500656:
+
+Haji Rahmat Ullah Mosjid:Mosque:Muslim:Lalshah Majar:
+Horinath Mondir:Temple:Hindu:Rishipara:
+Baitul Mamur Jame Mosjid:Mosque:Muslim:Box Nagar:
+Amtola Shia Mosjid:Mosque:Muslim:Amtola:
+st john's lutheran church:Church:Christian:Lalshah Majar:
+Buddha Mondir:Temple:Buddhist:Safiruddin Market:
+
+Surjodoy Sporting club:Cricket Club:Rishipara:Mohammad Sujon:01911565373:
+Lalshah Majar FC:Football Club:Lalshah Majar:Muhaddin Messbah:01515207761:
+Onushonditsu Biggan Club:Science Club:Safiruddin Market:Avro Dip:01707007007:
+Shilpaj Nattodol:Cultural Club:Lalshah Majar:Ajad Hossain:01544589879:
+Shorob Shahitto:Literary Club:Amtola:Indra:01951714756:
+Muhindra Park:Park:Box Nagar:Public:nil:
+Rafiq Srity Gronthagar:Library:Amtola:Messbah:01515207761:
